@@ -133,4 +133,10 @@ Issues and pull requests are welcome. Please include the distribution, release, 
 
 ## License
 
-No license file has been added yet. If you want to allow reuse and contributions under an open-source license, add a suitable `LICENSE` file (for example, MIT) before inviting public reuse.
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this script, including for commercial purposes, provided that the original copyright and license notice are retained.
+
+See the LICENSE file for the full license terms.
+
+Copyright (c) 2026 Yuvarajan Kandasamy.
